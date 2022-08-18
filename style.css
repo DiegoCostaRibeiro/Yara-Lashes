@@ -8,6 +8,12 @@
     background-color: #f5c8a1;
     font-family: 'EB Garamond', serif;
   }
+
+.container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+  }
   
   ul {
     list-style: none;
